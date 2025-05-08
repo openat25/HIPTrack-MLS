@@ -1,1 +1,1 @@
-The code and dataset will be made publicly available after the paper is accepted.
+The acquisition address for the COTD dataset is: https://pan.baidu.com/s/1JessOnOCnVNHxdlCsI9y-w 提取码: qpeg 
