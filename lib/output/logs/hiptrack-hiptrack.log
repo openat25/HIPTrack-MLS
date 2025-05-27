@@ -1,0 +1,1 @@
+[train: 1, 4 / 4] FPS: 1.3 (1.7)  ,  DataTime: 0.340 (0.010)  ,  ForwardTime: 1.145  ,  TotalTime: 1.495  ,  Loss/total: 4.93961  ,  Loss/giou: 1.22963  ,  Loss/l1: 0.08209  ,  Loss/location: 2.06991  ,  IoU: 0.77194
